@@ -1,0 +1,9 @@
+versus player
+instructions+105
+
+come back:
+x=168
+y=408
+
+width:441
+height:61
